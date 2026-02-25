@@ -8,17 +8,17 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
+  "EMAIL": "mondolfahim648@gmail.com",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "𝙤𝙗𝙞𝙩𝙤 𝙘𝙝𝙖𝙩𝙨 𝙗𝙤𝙩",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "61579496602436",
+    "61579496602436",
+    "61579496602436"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
