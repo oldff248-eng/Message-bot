@@ -1,10 +1,10 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+### OBITO 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHAHADAT+CHAT+BOT+Fork!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+OBITO+CHAT+BOT+Fork!" />
 </p>
 
 <!-- Image -->
@@ -15,7 +15,7 @@
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
-  <!-- SHAHADAT CHAT BOT -->
+  <!-- OBITO CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
     SHAHADAT CHAT BOT
   </span>
@@ -23,7 +23,7 @@
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By FAHIM
   </span>
 
 </p>
@@ -32,16 +32,16 @@
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/forks/FAHIM/OBITO-CHAT-BOT-CHAT-BOT?style=for-the-badForkslt="Forks">
 
   <!-- ⭐ Stars -->
   <img src="https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Stars">
 
   <!-- ⭐ Fork Views -->
-  <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+  <img src="https://komarev.com/ghpvc/?username=shahalabelahu&label=Forkcolorews&color=blueviolfor-the-badgethe-badge" aViewsork Views">
 
 
-  <!-- ⭐ Original Repository -->
+  <!-- ⭐ Original Repositora -->
   <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
